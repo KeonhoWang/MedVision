@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Data and trained models
+data/
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Temporary prediction images
+output*.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

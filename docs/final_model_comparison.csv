@@ -1,0 +1,4 @@
+Model,Validation Macro F1,Test Accuracy,Test Macro F1,Test Weighted F1
+Baseline CNN,0.8172,0.8006,0.7354,0.8021
+Improved CNN V2,0.8991,,,
+Improved CNN V2.1,0.9052,0.771,0.7334,0.7793

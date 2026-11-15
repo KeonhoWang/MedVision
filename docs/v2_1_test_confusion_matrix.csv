@@ -1,0 +1,10 @@
+,Adipose,Background,Debris,Lymphocytes,Mucus,Smooth Muscle,Normal Colon Mucosa,Cancer-associated Stroma,Colorectal Adenocarcinoma Epithelium
+Adipose,1297,0,0,0,0,41,0,0,0
+Background,0,847,0,0,0,0,0,0,0
+Debris,9,0,270,0,0,36,0,24,0
+Lymphocytes,0,0,236,377,0,0,17,0,4
+Mucus,204,201,5,0,561,0,43,21,0
+Smooth Muscle,54,6,31,2,0,403,0,96,0
+Normal Colon Mucosa,11,0,60,2,10,1,603,17,37
+Cancer-associated Stroma,6,0,103,0,4,64,0,242,2
+Colorectal Adenocarcinoma Epithelium,4,0,205,5,15,1,30,37,936
